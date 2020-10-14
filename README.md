@@ -32,9 +32,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/hebaabdelrehem/hebaabdelrehem/blob/main/h-git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on RH;
-- 🌱 I’m currently learning Nodejs; 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👨🏽‍💻 I’m currently working as Senior Software Engineer;
+- 🌱 I’m currently learning Node.js; 
+- 🤔 I’m looking new challenges;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://www.linkedin.com/in/hebaabdelrehem/;
 
@@ -56,8 +56,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
@@ -69,4 +69,3 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- This readme was created by Heba Abdelrehem - https://github.com/hebaabdelrehem -->
-⭐️ From [Heba](https://github.com/hebaabdelrehem)
