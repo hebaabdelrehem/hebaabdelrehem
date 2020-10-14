@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hebaabdelrehem)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hebaabdelrehem/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:https://www.linkedin.com/in/hebaabdelrehem/)
-
+[![Medium](https://img.shields.io/badge/-Medium-858585?style=flat&logo=Medium&logoColor=white)](https://medium.com/@hebaabdelrehem)
 &nbsp;
 
 <!-- Talking about you -->
