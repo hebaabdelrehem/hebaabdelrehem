@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your title -->
-## Hi, I'm Heba Abdelrehem, a Developer 🚀 
+## Hi, I'm Heba Abdelrehem, a Software Engineer 🚀 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
