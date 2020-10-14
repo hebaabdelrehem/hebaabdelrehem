@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working as Senior Software Engineer;
 - 🌱 I’m currently learning Node.js; 
-- 🤔 I’m looking new challenges;
+- 🤔 I’m looking for new challenges;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://www.linkedin.com/in/hebaabdelrehem/;
 
