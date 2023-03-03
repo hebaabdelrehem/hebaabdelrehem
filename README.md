@@ -30,10 +30,27 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://github.com/hebaabdelrehem/hebaabdelrehem/blob/main/h-git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working as Senior Software Engineer;
-- 🌱 I’m currently learning Node.js; 
+- 🌱 I’m currently learning Python; 
 - 🤔 I’m looking for new challenges;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://www.linkedin.com/in/hebaabdelrehem/;
+
+## Insights
+<!-- github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="500" align="top" src="https://github-readme-stats.vercel.app/api?username=hebaabdelrehem&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="My GitHub Stats" />
+</a>
+
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="500" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaabdelrehem&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=495" alt="My Most Used GitHub Languages" />
+</a>
+
+<br />
+
+<br />
 
 **Languages and Tools:** 
 
