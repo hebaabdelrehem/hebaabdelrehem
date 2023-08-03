@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/hebaabdelrehem/hebaabdelrehem/blob/main/h-git-header.svg" />
@@ -59,7 +59,7 @@ You can use the website to generate badges: https://shields.io/
 <p>
   
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
